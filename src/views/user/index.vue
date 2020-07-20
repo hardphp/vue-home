@@ -1,7 +1,7 @@
 <template>
   <div class="user">
     <van-cell-group class="user-info">
-      <van-cell title="15237156573" value="审核中" label="代理ID:123456789" />
+      <van-cell title="152****" value="审核中" label="代理ID:123456789" />
     </van-cell-group>
     <van-cell-group class="user-ticheng">
       <van-cell value="100%" icon="refund-o" is-link @click="gotourl('userlevel')">
@@ -14,19 +14,19 @@
 
     <van-row class="user-links">
       <van-col span="6">
-        <div class="user-money">123</div>
+        <div class="user-money">0</div>
         账户余额(元)
       </van-col>
       <van-col span="6">
-        <div class="user-money">123</div>
+        <div class="user-money">0</div>
         待入账(元)
       </van-col>
       <van-col span="6">
-        <div class="user-money">123</div>
+        <div class="user-money">0</div>
         本月收入(元)
       </van-col>
       <van-col span="6">
-        <div class="user-money">123</div>
+        <div class="user-money">0</div>
         上月收入(元)
       </van-col>
 
