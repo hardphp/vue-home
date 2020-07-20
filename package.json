@@ -18,7 +18,7 @@
     "normalize.css": "7.0.0",
     "nprogress": "0.2.0",
     "sortablejs": "1.7.0",
-    "vant": "^1.6.8",
+    "vant": "^2.9.3",
     "vue": "^2.6.8",
     "vue-count-to": "1.0.13",
     "vue-router": "^3.0.1",
